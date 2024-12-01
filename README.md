@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer who loves to build scalable and
 
 ## 🚀 About Me
 - 🔭 **Currently working on**: [Project Name] - [Brief description of what you're working on].
-- 🌱 **Learning**: Constantly improving my skills in **JavaScript**, **React**, **Node.js**, **Tailwind CSS**, and **API development**.
+- 🌱 **Learning**: Constantly improving my skills in **JavaScript**, **React**, **Node.js**, **Tailwind CSS**, **Bootstrap**, and **API development**.
 - 💬 **Ask me about**: **MERN stack**, **frontend development**, **backend systems**, or **project architecture**.
 - 🏆 **I believe in**: Writing clean, maintainable code and solving real-world problems through innovative solutions.
 - 📫 **How to reach me**: [Your Email] | [LinkedIn](https://www.linkedin.com/in/yourusername)
@@ -30,19 +30,6 @@ Welcome to my GitHub! I'm a passionate developer who loves to build scalable and
 - 📖 **GitHub Repo**: [Repo Link]
 - 🛠 **Built with**: React, Node.js, MongoDB, Tailwind CSS
 
-### 📚 **[Project Name]**
-- **Description**: A tool to help users [describe what it does]. Built using **React** and **Express** for seamless performance.
-- 🚀 **Live Demo**: [Demo Link]
-- 📖 **GitHub Repo**: [Repo Link]
-- 🛠 **Built with**: Express, MongoDB, React
-
-### 📝 **[Project Name]**
-- **Description**: This is a project designed to [describe project]. The goal was to provide an easy-to-use solution for [problem it solves].
-- 🚀 **Live Demo**: [Demo Link]
-- 📖 **GitHub Repo**: [Repo Link]
-- 🛠 **Built with**: Node.js, React, Tailwind CSS, MongoDB
-
----
 - 🎓 **Certificate** in **MEARN STACK DEVELOPER**  from Schools Of Techies .
 
 ---
