@@ -1,6 +1,6 @@
 # Hello, I'm Mohanavenkatesh 👋  
 **Full Stack Developer** | **MERN Stack** | **Problem Solver**  
-St.Thomas Mount | [Your Portfolio Link (Optional)]
+St.Thomas Mount | Chennai -16
 
 Welcome to my GitHub! I'm a passionate developer who loves to build scalable and user-friendly applications. I specialize in **Full Stack Development** with a strong focus on the **MERN stack** (MongoDB, Express, React, Node.js) and **Tailwind CSS**. I’m always looking for new challenges to improve my skills and contribute to open-source projects.
 
