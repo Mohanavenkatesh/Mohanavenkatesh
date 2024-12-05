@@ -13,27 +13,6 @@ Welcome to my GitHub! I'm a passionate developer who loves to build scalable and
 - 🏆 **I believe in**: Writing clean, maintainable code and solving real-world problems through innovative solutions.
 - 📫 **How to reach me**: [Your Email] | [LinkedIn](https://www.linkedin.com/in/yourusername)
 
----
-
-## 💻 Tech Stack & Tools
-- **Frontend**: React, JavaScript, HTML, CSS, Tailwind CSS, Redux
-- **Backend**: Node.js, Express, MongoDB, RESTful APIs
-- **Version Control**: Git, GitHub, GitLab
-- **Tools**: VS Code, Figma, Postman, Docker, Jenkins
-
-
-## 🌟 Projects
-
-### 🔥 **[Project Name]**
-- **Description**: A web application built to [solve a specific problem], using the **MERN stack**. It allows users to [brief description of what users can do with it].
-- 🚀 **Live Demo**: [Demo Link]
-- 📖 **GitHub Repo**: [Repo Link]
-- 🛠 **Built with**: React, Node.js, MongoDB, Tailwind CSS
-
-- 🎓 **Certificate** in **MEARN STACK DEVELOPER**  from Schools Of Techies .
-
----
-
 ## 🌱 Ongoing Learning
 - Currently working through the **MERN Stack course** on [Udemy](https://www.udemy.com/).
 - Regularly solving algorithm problems on **LeetCode** and **HackerRank** to improve my problem-solving skills.
