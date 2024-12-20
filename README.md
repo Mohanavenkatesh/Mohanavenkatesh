@@ -9,19 +9,15 @@ Welcome to my GitHub! I'm a passionate developer who loves to build scalable and
 ## 🚀 About Me
 - 🔭 **Currently working on**: [Project Name] - [Brief description of what you're working on].
 - 🌱 **Learning**: Constantly improving my skills in **JavaScript**, **React**, **Node.js**, **Tailwind CSS**, **Bootstrap**, and **API development**.
-- 💬 **Ask me about**: **MERN stack**, **frontend development**, **backend systems**, or **project architecture**.
-- 🏆 **I believe in**: Writing clean, maintainable code and solving real-world problems through innovative solutions.
-- 📫 **How to reach me**: [Your Email] | [LinkedIn](https://www.linkedin.com/in/yourusername)
 
 ## 🌱 Ongoing Learning
-- Currently working through the **MERN Stack course** on [Udemy](https://www.udemy.com/).
 - Regularly solving algorithm problems on **LeetCode** and **HackerRank** to improve my problem-solving skills.
 
 ---
 
 ## 🌍 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/yourusername) | [Twitter](https://twitter.com/yourusername) | [Portfolio/Website](https://yourportfolio.com)  
-- 📬 **Email**: [your-email@example.com]
+- 📬 **Email**: mohanavenkatesh.a@gamil.com
 
 ---
 
