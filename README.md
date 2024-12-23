@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate developer who loves to build scalable and
 ---
 
 ## 🌍 Let's Connect
-- [LinkedIn](www.linkedin.com/in/mohanavenkatesh-a-3574382ab) | [Twitter](https://x.com/Mohan25092000?t=SwTUYNDU8yC0yDwYj_SR8A&s=09) | [Portfolio/Website]((https://mohanavenkatesh.github.io/Portfolio/))  
+- [LinkedIn](www.linkedin.com/in/mohanavenkatesh-a-3574382ab) | [Twitter](https://x.com/Mohan25092000?t=SwTUYNDU8yC0yDwYj_SR8A&s=09) | [Portfolio/Website](https://mohanavenkatesh.github.io/Portfolio/)
 
 ---
 
