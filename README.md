@@ -1,5 +1,5 @@
 # Hello, I'm Mohanavenkatesh 👋  
-**Full Stack Developer** | **MERN Stack** | **Problem Solver**  
+**Full Stack Developer** | **MERN Stack** 
 St.Thomas Mount | Chennai -16
 
 Welcome to my GitHub! I'm a passionate developer who loves to build scalable and user-friendly applications. I specialize in **Full Stack Development** with a strong focus on the **MERN stack** (MongoDB, Express, React, Node.js) and **Tailwind CSS**. I’m always looking for new challenges to improve my skills and contribute to open-source projects.
@@ -7,19 +7,16 @@ Welcome to my GitHub! I'm a passionate developer who loves to build scalable and
 ---
 
 ## 🚀 About Me
-- 🔭 **Currently working on**: [Project Name] - [Brief description of what you're working on].
+- 🔭 **Currently working on**: React - First Project - Currently Im learning React .
 - 🌱 **Learning**: Constantly improving my skills in **JavaScript**, **React**, **Node.js**, **Tailwind CSS**, **Bootstrap**, and **API development**.
 
 ## 🌱 Ongoing Learning
 - Regularly solving algorithm problems on **LeetCode** and **HackerRank** to improve my problem-solving skills.
-
+- 
 ---
 
 ## 🌍 Let's Connect
-- [LinkedIn](www.linkedin.com/in/mohanavenkatesh-a-3574382ab
-
-) | [Twitter](https://x.com/Mohan25092000?t=SwTUYNDU8yC0yDwYj_SR8A&s=09) | [Portfolio/Website]([https://yourportfolio.com](https://mohanavenkatesh.github.io/Portfolio/))  
-- 📬 **Email**: mohanavenkatesh.a@gamil.com
+- [LinkedIn](www.linkedin.com/in/mohanavenkatesh-a-3574382ab) | [Twitter](https://x.com/Mohan25092000?t=SwTUYNDU8yC0yDwYj_SR8A&s=09) | [Portfolio/Website]((https://mohanavenkatesh.github.io/Portfolio/))  
 
 ---
 
