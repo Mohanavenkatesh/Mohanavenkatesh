@@ -4,6 +4,11 @@ St.Thomas Mount | Chennai -16
 
 Welcome to my GitHub! I'm a passionate developer who loves to build scalable and user-friendly applications. I specialize in **Full Stack Development** with a strong focus on the **MERN stack** (MongoDB, Express, React, Node.js) and **Tailwind CSS**. I’m always looking for new challenges to improve my skills and contribute to open-source projects.
 
+
+## 🌍 Let's Connect
+- [LinkedIn](www.linkedin.com/in/mohanavenkatesh-a-3574382ab) | [Twitter](https://x.com/Mohan25092000?t=SwTUYNDU8yC0yDwYj_SR8A&s=09) | [Portfolio/Website](https://mohanavenkatesh.github.io/Portfolio/)
+
+
 ---
 
 ## 🚀 About Me
@@ -24,11 +29,6 @@ Welcome to my GitHub! I'm a passionate developer who loves to build scalable and
 - **Clean Code Advocate**: I believe in writing **maintainable and readable code** to ensure scalability and smooth collaboration.
 
 ---
-
-
-## 🌍 Let's Connect
-- [LinkedIn](www.linkedin.com/in/mohanavenkatesh-a-3574382ab) | [Twitter](https://x.com/Mohan25092000?t=SwTUYNDU8yC0yDwYj_SR8A&s=09) | [Portfolio/Website](https://mohanavenkatesh.github.io/Portfolio/)
-
 
 ### 🚀 Let’s Build Something Great Together!
 Feel free to check out my repositories, and don’t hesitate to reach out if you’d like to collaborate on a project or if you have any job opportunities that fit my skills. I’m excited to grow and learn as part of an amazing team!
