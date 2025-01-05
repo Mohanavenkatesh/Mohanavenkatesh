@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate developer who loves to build scalable and
 
 ## 🌱 Ongoing Learning
 - Regularly solving algorithm problems on **LeetCode** and **HackerRank** to improve my problem-solving skills.
-- 
+- Learn Ethical Hacking On Udemy (Ongoing)
 ---
 
 ---
