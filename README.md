@@ -2,27 +2,11 @@
 **Full Stack Developer** | **MERN Stack** 
 St.Thomas Mount | Chennai -16
 
-Welcome to my GitHub! I'm a passionate developer who loves to build scalable and user-friendly applications. I specialize in **Full Stack Development** with a strong focus on the **MERN stack** (MongoDB, Express, React, Node.js) and **Tailwind CSS**. I’m always looking for new challenges to improve my skills and contribute to open-source projects.
+## Let's Connect
+- [LinkedIn](www.linkedin.com/in/mohanavenkatesh-a-3574382ab)  | [Portfolio](https://mohanavenkatesh.github.io/Portfolio/)
 
+##  Why I'm a Good Fit for Your Team
 
-## 🌍 Let's Connect
-- [LinkedIn](www.linkedin.com/in/mohanavenkatesh-a-3574382ab) | [Twitter](https://x.com/Mohan25092000?t=SwTUYNDU8yC0yDwYj_SR8A&s=09) | [Portfolio](https://mohanavenkatesh.github.io/Portfolio/)
-
-
----
-
-## 🚀 About Me
-- 🔭 **Currently working on**: React - First Project - Currently Im learning React .
-- 🌱 **Learning**: Constantly improving my skills in **JavaScript**, **React**, **Node.js**, **Tailwind CSS**, **Bootstrap**, and **API development**.
-
-## 🌱 Ongoing Learning
-- Regularly solving algorithm problems on **LeetCode** and **HackerRank** to improve my problem-solving skills.
-- Learn Ethical Hacking On Udemy (Ongoing)
----
-
----
-
-## 🤝 Why I'm a Good Fit for Your Team
 - **Collaborative Developer**: I enjoy working in teams and participating in **open-source projects**.
 - **Problem-Solving Mindset**: I am always focused on finding **efficient solutions** to complex technical challenges.
 - **Adaptable & Continuous Learner**: I keep myself updated with **emerging technologies** and always strive to improve my coding practices.
@@ -30,5 +14,5 @@ Welcome to my GitHub! I'm a passionate developer who loves to build scalable and
 
 ---
 
-### 🚀 Let’s Build Something Great Together!
+### Let’s Build Something Great Together !!!
 Feel free to check out my repositories, and don’t hesitate to reach out if you’d like to collaborate on a project or if you have any job opportunities that fit my skills. I’m excited to grow and learn as part of an amazing team!
