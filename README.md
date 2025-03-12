@@ -1,4 +1,4 @@
-# Hello, I'm Mohanavenkatesh 👋  
+Hey! 👋🏼 I'm Mohanavenkatesh
 **Full Stack Developer** | **MERN Stack** 
 St.Thomas Mount | Chennai -16
 
